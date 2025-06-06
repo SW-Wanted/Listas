@@ -1,4 +1,4 @@
-# Trabalho Prático - Estrutura de Dados I
+# Listas
 
 Este repositório contém a implementação de dois Tipos Abstratos de Dados (TADs): **Lista Ligada Simples** e **Lista Circular Duplamente Ligada**, conforme proposto no 1º Trabalho Prático da disciplina **Estrutura de Dados I** (Curso de Engenharia Informática, 2º Ano, ISPTEC).
 
